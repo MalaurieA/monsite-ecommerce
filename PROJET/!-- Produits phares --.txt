@@ -1,0 +1,41 @@
+<!-- Produits phares -->
+    <section class="featured-products">
+        <div class="container">
+            <h2 class="section-title">Produits phares</h2>
+            <div class="products-grid">
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="https://placehold.co/400x300?text=Industrial+floor+scale+stainless+steel+design+grayscale" alt="Balance au sol inox" class="img-default">
+                        <img src="https://placehold.co/400x300?text=Industrial+floor+scale+stainless+steel+orange+accents+color" alt="Balance au sol inox" class="img-hover">
+                    </div>
+                    <h3>Balance au sol inox</h3>
+                    <p class="product-description">Robuste et hygiénique pour environnements exigeants</p>
+                    <p class="product-price">À partir de 2 490 €</p>
+                    <a href="produits.html" class="btn-secondary">En savoir plus</a>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="https://placehold.co/400x300?text=High+precision+table+scale+compact+design+grayscale" alt="Balance de table haute précision" class="img-default">
+                        <img src="https://placehold.co/400x300?text=High+precision+table+scale+compact+design+orange+details+color" alt="Balance de table haute précision" class="img-hover">
+                    </div>
+                    <h3>Balance de table haute précision</h3>
+                    <p class="product-description">Précision au gramme près pour laboratoires</p>
+                    <p class="product-price">À partir de 890 €</p>
+                    <a href="produits.html" class="btn-secondary">En savoir plus</a>
+                </div>
+                <div class="product-card">
+                    <div class="product-image">
+                        <img src="https://placehold.co/400x300?text=Heavy+duty+weighing+platform+industrial+steel+grayscale" alt="Plateforme de pesage lourde" class="img-default">
+                        <img src="https://placehold.co/400x300?text=Heavy+duty+weighing+platform+industrial+steel+orange+highlights+color" alt="Plateforme de pesage lourde" class="img-hover">
+                    </div>
+                    <h3>Plateforme de pesage lourde</h3>
+                    <p class="product-description">Capacité jusqu'à 5 tonnes pour industrie lourde</p>
+                    <p class="product-price">À partir de 4 990 €</p>
+                    <a href="produits.html" class="btn-secondary">En savoir plus</a>
+                </div>
+            </div>
+            <div class="text-center">
+                <a href="produits.html" class="btn-primary">Voir tous les produits</a>
+            </div>
+        </div>
+    </section>
